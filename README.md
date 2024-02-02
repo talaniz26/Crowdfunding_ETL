@@ -32,5 +32,9 @@ Although you and your partner will divide the work, it’s essential to collabor
 
 # Part 1 Python ETL
 Creating the DataFrames from our sources included a Category and Subcategory DataFrame. We also created a Campaign DataFrame and Contacts Dataframe.
+The output of those DataFrames will be included in the Resouces Folder.
 
 # Part 2 SQL ETL
+Creating a Crowdfunding database for each of the output files including an ERD diagram for easy visualization of the Schemas.
+We imported the .csv files into each schema and reviewed the queries located in the SQL_queries.sql file.
+
